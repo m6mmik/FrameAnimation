@@ -1,0 +1,4 @@
+FrameAnimation.Activity1, FrameAnimation;md504e2fdbc06f17b311f3b8e4eeed307fd.Activity1
+FrameAnimation.Activity1, FrameAnimation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md504e2fdbc06f17b311f3b8e4eeed307fd.Activity1
+FrameAnimation.Activity1;md504e2fdbc06f17b311f3b8e4eeed307fd.Activity1
+frameanimation.Activity1;md504e2fdbc06f17b311f3b8e4eeed307fd.Activity1

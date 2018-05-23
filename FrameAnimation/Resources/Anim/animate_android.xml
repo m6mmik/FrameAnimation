@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+                android:oneshot="false">
+  <item android:drawable="@drawable/A"
+        android:duration="100" />
+  <item android:drawable="@drawable/An"
+        android:duration="100" />
+  <item android:drawable="@drawable/And"
+        android:duration="100" />
+  <item android:drawable="@drawable/Andr"
+        android:duration="100" />
+  <item android:drawable="@drawable/Andre"
+        android:duration="100" />
+  <item android:drawable="@drawable/Andrea"
+        android:duration="100" />
+  <item android:drawable="@drawable/Andreas"
+        android:duration="100" />
+<item android:drawable="@drawable/AndreasK"
+        android:duration="100" />
+  <item android:drawable="@drawable/AndreasKu"
+        android:duration="100" />
+   <item android:drawable="@drawable/AndreasKuu"
+        android:duration="100" />
+     <item android:drawable="@drawable/AndreasKuus"
+        android:duration="100" />
+     <item android:drawable="@drawable/AndreasKuusk"
+        android:duration="100" />
+     <item android:drawable="@drawable/AndreasKuuska"
+        android:duration="100" />
+     <item android:drawable="@drawable/AndreasKuuskar"
+        android:duration="100" />
+  <item android:drawable="@drawable/AndreasKuuskaru"
+        android:duration="200" />
+</animation-list>
